@@ -1,0 +1,72 @@
+[
+    {
+        "integrante": 1,
+        "estado": "SP",
+        "idade" : 29,
+        "pet" : "true",
+        "music": [
+            {"name":"Four Seasons", "estilo": "Classic"}
+        ]
+    },
+
+    {
+        "integrante": 2,
+        "estado": "SP",
+        "idade" : 34,
+        "pet" : "false",
+        "music": [
+            {"name":"Projota", "estilo": "Pop"}
+        ]
+    },
+
+    {
+        "integrante": 3,
+        "estado": "RJ",
+        "idade" : 40,
+        "pet" : "false",
+        "music": [
+            {"name":"Comercial do Bradesco", "estilo": "Pop"}
+ 
+        ]
+     },
+
+    {
+        "integrante": 4,
+        "estado": "SP",
+        "idade" : 40,
+        "pet" : "false",
+        "music": [
+            {"name":"Dream Theater", "estilo": "Heavy Metal"}
+         ]
+     },
+
+    {
+        "integrante": 5,
+        "estado": "SP",
+        "idade" : 43,
+        "pet" : "false",
+        "music": [
+            {"name":"Wicked Game", "estilo": "Pop"}
+         ]
+     },
+
+    {
+        "integrante": 6,
+        "estado": "PR",
+        "idade" : 34,
+        "pet" : "true",
+        "music": [
+            {"name":"ACDC", "estilo": "Rock"}
+         ]
+     },
+
+    {
+        "integrante": 7,
+        "estado": "SP",
+        "idade" : 32,
+        "pet" : "true",
+        "music": [
+            {"name":"Devastator", "estilo": "Heavy Metal"}
+         ]
+     }
+]
